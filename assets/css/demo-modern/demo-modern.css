@@ -1,8 +1,8 @@
 @font-face {
   font-family: "Clash Grotesk";
-  src: url("/dist/assets/webfonts/clash-grotesk/ClashGrotesk-Regular.woff2")
+  src: url("/assets/webfonts/clash-grotesk/ClashGrotesk-Regular.woff2")
       format("woff2"),
-    url("/dist/assets/webfonts/clash-grotesk/ClashGrotesk-Regular.woff")
+    url("/assets/webfonts/clash-grotesk/ClashGrotesk-Regular.woff")
       format("woff");
   font-weight: 400;
   font-display: swap;
@@ -10,9 +10,9 @@
 }
 @font-face {
   font-family: "Clash Grotesk";
-  src: url("/dist/assets/webfonts/clash-grotesk/ClashGrotesk-Medium.woff2")
+  src: url("/assets/webfonts/clash-grotesk/ClashGrotesk-Medium.woff2")
       format("woff2"),
-    url("/dist/assets/webfonts/clash-grotesk/ClashGrotesk-Medium.woff")
+    url("/assets/webfonts/clash-grotesk/ClashGrotesk-Medium.woff")
       format("woff");
   font-weight: 500;
   font-display: swap;

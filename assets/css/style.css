@@ -1333,6 +1333,7 @@ hr.thick {
   margin-top: -0.2em;
   vertical-align: middle;
   border-radius: 100px;
+  filter: grayscale(100%);
 }
 .hs-paragraph-1 {
   position: absolute;
@@ -5914,6 +5915,7 @@ a.logo:hover {
 }
 img.services-image {
   position: relative;
+  filter: grayscale(100%) !important;
 }
 @keyframes services-tabs-animation-1 {
   0% {
